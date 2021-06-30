@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neoneww)](https://github.com/neoneww/github-readme-stats)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=neoneww)](https://github.com/neoneww/github-readme-stats)
+
 
 ![](https://komarev.com/ghpvc/?username=neoneww)
 <!---
