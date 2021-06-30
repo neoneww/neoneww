@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @neoneww
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neoneww)](https://github.com/neoneww/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neoneww)](https://github.com/neoneww/github-readme-stats)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neoneww&theme=dark)](https://git.io/streak-stats)
+[![neoneww github activity graph](https://activity-graph.herokuapp.com/graph?username=neoneww&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=neoneww)](https://github.com/neoneww/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=neoneww)
