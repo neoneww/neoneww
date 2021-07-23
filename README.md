@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Sharma</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neoneww)](https://github.com/neoneww/github-readme-stats)  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neoneww&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
-[![neoneww github activity graph](https://activity-graph.herokuapp.com/graph?username=neoneww&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=neoneww&bg_color=ffffff&color=0011fa&line=491c6d&point=006eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Skills
 <div style="display:flex;flex-direction:row">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
