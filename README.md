@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourav Sharma</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neoneww)](https://github.com/neoneww/github-readme-stats)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neoneww&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neoneww)](https://github.com/neoneww/github-readme-stats)  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neoneww&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 [![neoneww github activity graph](https://activity-graph.herokuapp.com/graph?username=neoneww&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Skills
