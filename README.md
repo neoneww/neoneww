@@ -31,6 +31,13 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
+
+## Contact
+<div>
+        <h2>souraavat@gmail.com</h2>
+        <a href="https://www.linkedin.com/in/sourav-sharma-376a7a187/">
+        <img src="https://img.icons8.com/ios/500/linkedin.png"  width="50" height="50" />
+</div>
 <br>
 <br>
 
