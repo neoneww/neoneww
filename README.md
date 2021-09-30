@@ -32,14 +32,15 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
-## Contact
-<div>
-        <h2>souraavat@gmail.com</h2>
-        <a href="https://www.linkedin.com/in/sourav-sharma-376a7a187/">
-        <img src="https://img.icons8.com/ios/500/linkedin.png"  width="50" height="50" />
-</div>
-<br>
-<br>
+## 🔗 Connect with me
+<p align="center">
+<a href="https://www.linkedin.com/in/sourav-sharma-376a7a187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/souravsharma651/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayankar" height="30" width="40" /></a>
+<a href="https://leetcode.com/neoneww/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayankar" height="30" width="40" /></a>
+<a href="https://binarysearch.com/@/sourav190" target="blank"><img align="center" src="https://binarysearch.com/favicon.ico" alt="mayankar" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/neonew" target="blank"><img align="center" src="https://yt3.ggpht.com/vDx6SI8Idlp0RFkO-_aoukC7M6JUBu5xxBxRGGInmzw1hqIfcLYIKUvZKYRAAoNob7drkULmrA=s68-c-k-c0x00ffffff-no-rj" alt="mayankar" height="30" width="30" /></a>
+<a href="mailto:souraavat@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="mayankar" height="30" width="30" /></a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=neoneww)
 <!---
